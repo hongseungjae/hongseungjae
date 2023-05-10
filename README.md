@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## SKills
+### SKills
 #### Back-End
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=?style=plastic&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-59666C?style=plastic&logo=#59666C&logoColor=white"/>
 <img src="https://img.shields.io/badge/mariaDB-003545?style=plastic&logo=mariaDB&logoColor=white">
